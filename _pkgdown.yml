@@ -1,4 +1,6 @@
-url: https://shinyworks.github.io/scenes/
+url: https://scenes.shinyworks.org/
 template:
   bootstrap: 5
-
+development:
+  mode: auto
+lang: en-US
