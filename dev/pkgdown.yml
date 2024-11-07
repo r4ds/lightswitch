@@ -1,0 +1,10 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  actions: actions.html
+  scenes: scenes.html
+last_built: 2024-11-07T19:25Z
+urls:
+  reference: https://scenes.shinyworks.org/reference
+  article: https://scenes.shinyworks.org/articles
